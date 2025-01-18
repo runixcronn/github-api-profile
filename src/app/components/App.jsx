@@ -1,4 +1,3 @@
-import { CLIENT_STATIC_FILES_RUNTIME_POLYFILLS_SYMBOL } from "next/dist/shared/lib/constants";
 import React, { useState } from "react";
 
 const App = () => {
